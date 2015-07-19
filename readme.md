@@ -1,3 +1,5 @@
+**Update:** I got something simple working, following this little guide: https://github.com/rackt/react-router/wiki/Announcements#whats-the-deal-with-the-new-api
+
 # ipman
 
 A minimal setup for rendering [React](http://reactjs.org/) on the server using [express](http://expressjs.com/) and [react-router](http://rackt.github.io/react-router/).
